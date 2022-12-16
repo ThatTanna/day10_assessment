@@ -1,0 +1,15 @@
+Task 1 (30pts):
+Read input from .csv file and .txt, then write/export out to template.txt
+
+Command line will take 2 arguments: .csv in [args0] and .txt in [args1]
+
+Class: user
+Properties needed:
+first_name, last_name, address, years.
+salutations, last_name, package_name, price.
+map<String, List<String>>
+
+Use reader to get input from .csv and template.txt
+take line 1 input as keys
+skip 1 line for values
+
